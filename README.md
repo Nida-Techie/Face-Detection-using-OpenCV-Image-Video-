@@ -12,7 +12,7 @@ This project demonstrates Face Detection using Python and OpenCV. It can detect 
 ### 📸 Sample Output (Image)
 Here’s an example of face detection on an image:
 
-![Face Detection Output](output_image.jpg)
+![Face Detection Output](output_image.PNG)
 
 
 ### 🎥 Sample Output (Video)
