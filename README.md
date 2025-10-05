@@ -9,10 +9,9 @@ This project demonstrates Face Detection using Python and OpenCV. It can detect 
 - ✅ Saves the processed output video  
 - ✅ Works perfectly on Google Colab or any Python environment  
 
-### 📸 Sample Output (Image)
-Here’s an example of face detection on an image:
+## 🖼️ Image Output  
+![Image Output](images/output_image.jpg)
 
-![Face Detection Output](output_image.PNG)
 
 
 ### 🎥 Sample Output (Video)
