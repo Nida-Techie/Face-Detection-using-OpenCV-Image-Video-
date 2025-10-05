@@ -10,7 +10,7 @@ This project demonstrates Face Detection using Python and OpenCV. It can detect 
 - ✅ Works perfectly on Google Colab or any Python environment  
 
 ## 🖼️ Image Output  
-![Image Output](image_output/output_image.jpg)
+![Image Output](image_output/output_image.png)
 
 
 
